@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="L2T4U430026079.c" />
+	<category name="L3T3U430026079.c" />
+	<category name="L3T4U430026079.c" />
+	<category name="L4T1U430026079.c" />
+	<category name="L4T6U430026079.c" />
+	<category name="L7T2U430026079.c">
+		<category name="Window">
+			<property name="Left" type="integer">49</property>
+			<property name="Top" type="integer">49</property>
+			<property name="Right" type="integer">1969</property>
+			<property name="Bottom" type="integer">857</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>

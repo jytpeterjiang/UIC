@@ -1,0 +1,18 @@
+﻿  Dount.cpp
+D:\Code\C\Project\Project3\Dount.cpp(15,36): warning C4305: “+=”: 从“double”到“float”截断
+D:\Code\C\Project\Project3\Dount.cpp(16,40): warning C4305: “+=”: 从“double”到“float”截断
+D:\Code\C\Project\Project3\Dount.cpp(17,29): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,61): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,77): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,93): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,186): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,202): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(17,218): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(18,23): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(18,82): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(18,157): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(28,14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(29,14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Code\C\Project\Project3\Dount.cpp(9,10): warning C4101: “b”: 未引用的局部变量
+  Project3.vcxproj -> D:\Code\C\Project\Donut\x64\Debug\Project3.exe

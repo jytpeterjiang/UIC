@@ -1,0 +1,18 @@
+﻿  11.c
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(15,36): warning C4305: “+=”: 从“double”到“float”截断
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(16,40): warning C4305: “+=”: 从“double”到“float”截断
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(41,18): warning C4305: “+=”: 从“double”到“float”截断
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(42,18): warning C4305: “+=”: 从“double”到“float”截断
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(17,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(18,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(19,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(20,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(21,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(24,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(25,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(26,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(28,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(29,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(31,27): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Documents\WeChat Files\wxid_8xk5aq0fh8d432\FileStorage\File\2024-08\11.c(7,9): warning C4101: “c”: 未引用的局部变量
+  Donut.vcxproj -> D:\Code\C\Project\Donut\x64\Debug\Donut.exe

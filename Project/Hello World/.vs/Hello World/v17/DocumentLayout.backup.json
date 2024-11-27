@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C\\Project\\Hello World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|D:\\Code\\C\\Project\\Hello World\\\u5B57\u7B26\u4E09\u89D2\u5F62.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|solutionrelative:\u5B57\u7B26\u4E09\u89D2\u5F62.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|D:\\Code\\C\\Project\\Hello World\\\u68F1\u5F62.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|solutionrelative:\u68F1\u5F62.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|D:\\Code\\C\\Project\\Hello World\\Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|solutionrelative:Hello World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|D:\\Code\\C\\Project\\Hello World\\A\u002BB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69216D9A-8EDD-44F9-B5BA-7AE4A288CE7A}|Hello World.vcxproj|solutionrelative:A\u002BB.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u5B57\u7B26\u4E09\u89D2\u5F62.cpp",
+              "DocumentMoniker": "D:\\Code\\C\\Project\\Hello World\\\u5B57\u7B26\u4E09\u89D2\u5F62.cpp",
+              "RelativeDocumentMoniker": "\u5B57\u7B26\u4E09\u89D2\u5F62.cpp",
+              "ToolTip": "D:\\Code\\C\\Project\\Hello World\\\u5B57\u7B26\u4E09\u89D2\u5F62.cpp",
+              "RelativeToolTip": "\u5B57\u7B26\u4E09\u89D2\u5F62.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T09:03:46.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u68F1\u5F62.cpp",
+              "DocumentMoniker": "D:\\Code\\C\\Project\\Hello World\\\u68F1\u5F62.cpp",
+              "RelativeDocumentMoniker": "\u68F1\u5F62.cpp",
+              "ToolTip": "D:\\Code\\C\\Project\\Hello World\\\u68F1\u5F62.cpp",
+              "RelativeToolTip": "\u68F1\u5F62.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T09:02:19.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "A\u002BB.cpp",
+              "DocumentMoniker": "D:\\Code\\C\\Project\\Hello World\\A\u002BB.cpp",
+              "RelativeDocumentMoniker": "A\u002BB.cpp",
+              "ToolTip": "D:\\Code\\C\\Project\\Hello World\\A\u002BB.cpp",
+              "RelativeToolTip": "A\u002BB.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T08:46:03.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hello World.cpp",
+              "DocumentMoniker": "D:\\Code\\C\\Project\\Hello World\\Hello World.cpp",
+              "RelativeDocumentMoniker": "Hello World.cpp",
+              "ToolTip": "D:\\Code\\C\\Project\\Hello World\\Hello World.cpp",
+              "RelativeToolTip": "Hello World.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T08:33:34.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
