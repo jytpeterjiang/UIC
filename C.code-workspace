@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "lab-release",
+			"path": "FOC/Tasks/Lab/lab-release"
+		},
+		{
+			"name": "assignment-release",
+			"path": "FOC/Tasks/Assignment/assignment-release"
+		},
+		{
+			"name": "Solutions",
+			"path": "FOC/Tasks/Solutions/Solutions"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "c"
+		}
+	}
+}
