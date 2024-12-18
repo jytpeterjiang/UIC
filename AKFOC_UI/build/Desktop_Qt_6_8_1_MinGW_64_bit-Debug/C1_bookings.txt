@@ -1,0 +1,2 @@
+Date: 15/12/2024, Timeslot: 09:00-09:50, User: alice
+Date: 17/12/2024, Timeslot: 12:00-12:50, User: alice

@@ -1,0 +1,9 @@
+# ninja log v6
+10	335	7558773561214852	AKFOC_UI_autogen/timestamp	aca3f9885197fed1
+10	335	7558773561214852	AKFOC_UI_autogen/mocs_compilation.cpp	aca3f9885197fed1
+10	335	7558773561214852	D:/QtProject/AKFOC_UI/cmake-build-debug/AKFOC_UI_autogen/timestamp	aca3f9885197fed1
+2	447	7558849316514044	build.ninja	f292b1ac41d6f401
+10	335	7558773561214852	D:/QtProject/AKFOC_UI/cmake-build-debug/AKFOC_UI_autogen/mocs_compilation.cpp	aca3f9885197fed1
+344	1369	7558773561804957	CMakeFiles/AKFOC_UI.dir/main.cpp.obj	6f0777ae3e59c9b9
+335	1382	7558773561714898	CMakeFiles/AKFOC_UI.dir/AKFOC_UI_autogen/mocs_compilation.cpp.obj	350bfb99c55d05c1
+351	1486	7558773561877457	CMakeFiles/AKFOC_UI.dir/mainwindow.cpp.obj	27b64fa760e4238c
